@@ -245,6 +245,8 @@ color: rgba(69, 69, 69, 1);
 #dis1{
  width: 535px;
  height: 42px;
+ margin-left: 703px;
+ margin-top: 39.39px;
  font-family: Futura Md BT;
 font-size: 70px;
 font-weight: 400;
@@ -256,6 +258,8 @@ color: rgba(69, 69, 69, 1);
 #dis2{
   width:562px;
   height: 30px;
+  margin-left: 689px;
+  margin-top: 36px;
   font-family: Futura Lt BT;
 font-size: 26px;
 font-weight: 400;
@@ -275,10 +279,75 @@ margin-top: 140px;
 #gallerynewsbox{
   width: 1941px;
 height: 1029px;
+margin-top: 114px;
+margin-left: 0px;
 border:0.2px solid black;
 
 }
 
+#clock{
+  margin-top: 126px;
+  margin-left: 928px;
+}
+#left1{
+  position:absolute;
+  width:1225px;
+  height:816px;
+  z-index: 2;
+  margin-left: 0px;
+  /* background-color: white; */
+}
+#left2{
+  position:absolute;
+  margin-left:737px;
+  z-index: 1;
+  height:816px;
+  width:1200px;
+  background-color: bisque;
+}
+
+#idea{
+  margin-left: 121px;
+  margin-top: 149px;
+}
+#idea1{
+  width:398px;
+  height:42px;
+  margin-left: 109px;
+  margin-top:54.8px;
+  border :0.2px solid black;
+  font-family: Futura Md BT;
+font-size: 70px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: rgba(69, 69, 69, 1);
+
+}
+#idea2{
+  width:382px;
+  height:30px;
+  margin-left: 109px;
+  margin-top: 33px;
+  border:0.2px solid black;
+  font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: rgba(69, 69, 69, 1);
+
+}
+#quote{
+  width:1108px;
+  height:382px;
+  border:0.2px solid black;
+}
+#inquiretoday{
+  margin-top: 826px;
+}
 
 
 
