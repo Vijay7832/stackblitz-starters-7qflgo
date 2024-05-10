@@ -1,6 +1,6 @@
 #container{
   width: 1941px;
-  height: 9171px;
+  height: 9721px;
   background: rgba(255, 255, 255, 1);
   margin:0px;
   border: solid 1px red;
@@ -236,11 +236,16 @@ color: rgba(69, 69, 69, 1);
 }
 
 #schoolboardplate{
+  background-image: url('https://s3-alpha-sig.figma.com/img/e2a9/b475/4e2d144cb5a4a018c695bed1009cc5aa?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Lut6Hi83m1ms4NNb-qzxucBOqvRl4Rt0Ecnaoeg8EqCtaT5Ykchwi4PhUgNYTQ3kRy2pHsTf3z8UP1jAW2iNSaM0ry4xdJm4DC9qL5mlLQ9iMTe6uOjAtdUwsrnO66IXA9LMf7ER1k1iLKko4BGj~4eNgBYa-mREiC1yWq0fwua5Vc-oRIRzaqBXzBBf8k7x81Cm60F6owvQdGJDNxqNS2pmenjdX81PtMlsRa~an9ZcNfxDPR~um2jnBW7mBoV2SwA8G0HbXZkpdPPH6Zo48SFU9HDBaEXxo5YMtetLRtdOMxESx6WASv5QcDOzsDfAv8kfO4f9w9Fx49l4MmrD2A__');
+  /* background-size: 1654px 474px; */
+  background-size: cover;
   width:1654px;
   height:474px;
   border:0.2px solid black;
   margin-left: 144px;
   margin-top: 156px;
+
+
 }
 #dis1{
  width: 535px;
@@ -272,7 +277,7 @@ color: rgba(69, 69, 69, 1);
 #academics{
   width: 1652px;
 height: 251px;
-border: 0.2px solid black;
+/* border: 0.2px solid black; */
 margin-left: 147px;
 margin-top: 140px;
 }
@@ -301,6 +306,8 @@ border:0.2px solid black;
   position:absolute;
   margin-left:737px;
   z-index: 1;
+  background-image: url('https://s3-alpha-sig.figma.com/img/46a7/55c7/d38bd394dc44c8abfc1b5fc2c68fe7b2?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nqni1m-GZK9BeqH-UdWa~O1hd4y~zGw2zU5gJLIhvteRMcmRwKVsCjzaPqgAWpPbZFYSTX5B9W9fB1l8G3wlN4Qh5Exl9tIY89JM~rClmuEW32zdPdA2zmM1N9rFwqfg~5zm1Nlup48WKCsOrSKLtyiSPX1POQM7kgmb1sZJafsDVzzh71Wmoyn9GGVV9i9d-Ugq-jpj5WBVz97usUsXjXpUvxqjsxGCVs8e0ew8USv4Rb1zVAIckZODXx4zUShZpyV54huaH78rSAupYOWCWnDAUhQYSfDKbgwFjDPTH~paObMQLRRIHqVrDrZFJfuW2QJjhuTynJYSQ~Ydq-t7cA_');
+  background-size: cover;
   height:816px;
   width:1200px;
   background-color: bisque;
@@ -308,14 +315,14 @@ border:0.2px solid black;
 
 #idea{
   margin-left: 121px;
-  margin-top: 149px;
+  margin-top: 141px;
 }
 #idea1{
   width:398px;
   height:42px;
   margin-left: 109px;
   margin-top:54.8px;
-  border :0.2px solid black;
+  /* border :0.2px solid black; */
   font-family: Futura Md BT;
 font-size: 70px;
 font-weight: 400;
@@ -330,7 +337,7 @@ color: rgba(69, 69, 69, 1);
   height:30px;
   margin-left: 109px;
   margin-top: 33px;
-  border:0.2px solid black;
+  /* border:0.2px solid black; */
   font-family: Futura Lt BT;
 font-size: 26px;
 font-weight: 400;
@@ -344,12 +351,132 @@ color: rgba(69, 69, 69, 1);
   width:1108px;
   height:382px;
   border:0.2px solid black;
+  background: rgba(208, 237, 252, 1);
+
 }
+#quote img{
+  position: absolute;
+  margin-left: 79px;
+  margin-top: 65px;
+}
+#quotecontent1{
+  position: absolute;
+  width: 130px;
+  height: 36px;
+  margin-left: 923px;
+  margin-top: 55px;
+  font-family: Futura Lt BT;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(69, 69, 69, 1);
+  /* border:0.2px solid black;   */
+  
+  
+  
+}
+#quotecontent2{
+  position: absolute;
+  width: 906px;
+  height: 144px;
+  margin-left: 88px;
+  margin-top: 158.97px;
+  font-family: Futura Bk BT;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(69, 69, 69, 1);
+  
+  /* border:0.2px solid black;   */
+}
+
+
 #inquiretoday{
-  margin-top: 826px;
+
+  width: 1941px;
+height: 445.15px;
+border:0.2px solid black;
+  margin-top: 810px;
+  background-color: white;
+  background-image: url('images/Group 176513.png');
+  background-size: cover;
+  
 }
 
+#inquiretoday img{
+  position: absolute;
+  margin-top:102px ;
+  margin-left:927px ;
+}
 
+#it3{
+  position: absolute;
+  width: 443px;
+height: 111.08px;
+/* border: 0.2px solid black; */
+margin-left:749px; 
+margin-top:230px;
+}
+#it2{
+  margin-top: 30px;
+  margin-left: 25px;
+  margin-bottom: 0px;
+  width: 382px;
+height: 30.86px;
+font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: rgba(69, 69, 69, 1);
+
+
+}
+#it1{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 443px;
+height: 43.2px;
+font-family: Futura Md BT;
+font-size: 70px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: rgba(69, 69, 69, 1);
+
+
+}
+
+#img10{
+  margin-top: 0px;
+  margin-left: 0px;;
+  overflow-x: hidden;
+}
+#flo{
+  margin-left: 868px;
+  margin-top: 68.85px;
+}
+#bluebackground{
+  width: 1940px;
+height: 470px;
+border: 0.2px solid black;
+margin-top:68.85px;
+}
+
+#studyingimageform{
+  background-image: url('https://s3-alpha-sig.figma.com/img/a2d5/7513/94e810f3d2883ca3b0441ba4a87912d2?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dIRoaHvRxnnl32UfhmluvugTtKiE5zh4pJG80Ts~2zQiemfsVHfTURfTBamiViVKpNcv5DDvn3FpbOfpjcFHfSRXX~QgmqE2hHkc-r6NxtNlanUAHBF8-ZRFbIhSOhFBHHLgcBEzG~U~8wrAPnuKZz~R5GytO3w1D0TTU-E8xH3G4vGPqYb1KCDUgqqLWENf1qBiLmTPhzFHyMYcvJhQ~GHqp4vm~PGnnS4Vz3hP2co~NbWj6Ri6fI4EXWTqaCwaZ0p7TmXiLNouS1gnlgx6kLc4~KGb11iXdm93Vg5u9MNIZiB-5nvQIZx8VYztUzdn7zGA2OgEzQJVQI7R2dl2~w__');
+  background-size: contain;
+  position: relative;
+  width: 1940px;
+height: 1292px;
+border: 0.2px solid black;
+margin-top: 70px;
+}
 
 
 
