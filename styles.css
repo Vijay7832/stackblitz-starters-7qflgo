@@ -282,12 +282,31 @@ margin-left: 147px;
 margin-top: 140px;
 }
 #gallerynewsbox{
+  background-image: url('images/Group 176529.png"');
+  background-size: cover;
   width: 1941px;
 height: 1029px;
 margin-top: 114px;
 margin-left: 0px;
 border:0.2px solid black;
 
+}
+
+#conc{
+  position: relative;
+width: 1709px;
+height: 612px;
+border: 0.2 solid black;
+}
+
+#gallerynewsbox button{
+position:relative;
+width: 247px;
+height: 58px;
+margin-top: 837px;
+margin-left: 847px;
+border: 1px solid rgba(0, 0, 0, 1);
+background: rgba(255, 255, 255, 1);
 }
 
 #clock{
@@ -462,7 +481,9 @@ color: rgba(69, 69, 69, 1);
   margin-top: 68.85px;
 }
 #bluebackground{
-  width: 1940px;
+  background-image: url('https://s3-alpha-sig.figma.com/img/401e/0f2e/f1a6603318c97950157d16865e1f23c0?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GG8ZKq2wHSWeN8AxcodLQbhbsPZDG6Q4Vsky1pHHq~3Hr3pMc3xy0jFPRaXO7P-E70Ubi6qHYcf9iCB3ShT18liJwG9-o7nuCbfn-X4iRQNv1qqlJedY6Ef2eQH6ByUgdKP0OMNsN~5ytjzkJjcaWjxpxvmcWLpKxc9exJ5tKBHqVWDRO9AQOIu4t5VFHaTSBcG8qfqXtB0wZdzm8XXkIt5M7hHDgJYjiE0D2wMHkKJLo4TZzB280RVi-E06RZoQ4F08FlwCO96AjDc9UnTLro8S~6uSCF4uDKlrDvOgmo9AuAiOKnqHYG6fXZcskYIi6ZSbZ3dtKonUE2P36RWp8A__');
+  background-size: cover;
+width: 1940px;
 height: 470px;
 border: 0.2px solid black;
 margin-top:68.85px;
@@ -477,6 +498,49 @@ height: 1292px;
 border: 0.2px solid black;
 margin-top: 70px;
 }
+#bbtitle{
+  position: absolute;
+  width: 672px;
+height: 42px;
+margin-left: 651px;
+margin-top: 140px;
+font-family: Futura Md BT;
+font-size: 70px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+#bbcontent{
+  position: absolute;
+  width: 742px;
+height: 60px;
+margin-left: 616px;
+margin-top: 211px;
+font-family: Futura Bk BT;
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+#bluebackground button{
+position: absolute;
+width: 250px;
+height: 58px;
+margin-top: 325px;
+margin-left: 862px;
+background: rgba(255, 255, 255, 1);
+
+}
+
+
+
+
+
+
 
 
 
