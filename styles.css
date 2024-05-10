@@ -117,6 +117,55 @@ height: 24.1px;
   margin-top: 245px;
   margin-left: 1767px;
 }
+
+
+#colch{
+  font-family: Futura-Bold;
+font-size: 50px;
+font-weight: 500;
+line-height: 42px;
+text-align: center;
+color: #D1DEFC;
+
+}
+
+#inner{
+width: 891px;
+height: 58px;
+}
+
+#inner p{
+  margin-top: 0px;
+  font-family: Futura Md BT;
+font-size: 50px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #838383;
+}
+
+#inner button{
+  font-family: Futura Md BT;
+font-size: 30px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #080808;
+}
+
+#fonch{
+  font-family: Futura Bk BT;
+font-size: 24px;
+font-weight: 400;
+line-height: 37px;
+text-align: center;
+color: #919191;
+
+
+}
+
 #images2{
   position: absolute;
   z-index: 2;
@@ -181,8 +230,15 @@ height: 24.1px;
   height:58px;
   margin-top:138px;
   margin-right: 371px;
-  border:1px solid black;
+  /* border:1px solid black; */
   float:right;
+  /* background-color: #eee; */
+}
+
+#inner button{
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 1376;
 }
 
 #checkedborder{
@@ -190,7 +246,7 @@ height: 24.1px;
   height:4873.15px;
   border:0.1px solid black;
   background: rgba(240, 248, 255, 0.4);
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 
 #flight{
@@ -234,6 +290,66 @@ color: rgba(69, 69, 69, 1);
   margin-left: 115px;
   margin-top: 102.02px;
 }
+
+
+
+#cont1{
+  font-family: Futura Hv BT;
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: left;
+  color: #454545;
+  
+  
+  }
+  
+  #cont2{
+    font-family: Futura Lt BT;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 43px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: left;
+  color: #454545;
+  
+  }
+  
+  #cont3{
+    font-family: Futura Md BT;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: right;
+  color: #343434;
+  
+  }
+  
+  #cont4{
+    font-family: Futura Hv BT;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: center;
+  color: #343434;
+  
+  }
+  
+  #cont5{
+    font-family: Futura Lt BT;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 43px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: left;
+  
+  color: #454545;
+  
+  }
+
 
 #schoolboardplate{
   background-image: url('https://s3-alpha-sig.figma.com/img/e2a9/b475/4e2d144cb5a4a018c695bed1009cc5aa?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Lut6Hi83m1ms4NNb-qzxucBOqvRl4Rt0Ecnaoeg8EqCtaT5Ykchwi4PhUgNYTQ3kRy2pHsTf3z8UP1jAW2iNSaM0ry4xdJm4DC9qL5mlLQ9iMTe6uOjAtdUwsrnO66IXA9LMf7ER1k1iLKko4BGj~4eNgBYa-mREiC1yWq0fwua5Vc-oRIRzaqBXzBBf8k7x81Cm60F6owvQdGJDNxqNS2pmenjdX81PtMlsRa~an9ZcNfxDPR~um2jnBW7mBoV2SwA8G0HbXZkpdPPH6Zo48SFU9HDBaEXxo5YMtetLRtdOMxESx6WASv5QcDOzsDfAv8kfO4f9w9Fx49l4MmrD2A__');
@@ -292,19 +408,58 @@ border:0.2px solid black;
 
 }
 
-#conc{
+#foot1{
+  font-family: Futura Bk BT;
+font-size: 24px;
+font-weight: 400;
+line-height: 38px;
+text-align: left;
+color: #838383;
+
+
+}
+#header p{
+  font-family: Futura Bk BT;
+font-size: 20px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #454545;
+padding-left: 838px;
+padding-top: 40px;
+padding-bottom: 25px;
+
+}
+
+#complex3{
+  font-family: Futura Hv BT;
+font-size: 30px;
+font-style: italic;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0.8960000276565552px;
+text-align: center;
+color: #838383;
+
+}
+
+#conc11{
   position: relative;
 width: 1709px;
 height: 612px;
-border: 0.2 solid black;
+margin-top: 173px;
+margin-left: 119px;
+/* border: 0.2 solid black; */
+
 }
 
 #gallerynewsbox button{
 position:relative;
 width: 247px;
 height: 58px;
-margin-top: 837px;
 margin-left: 847px;
+margin-top: 70px;
 border: 1px solid rgba(0, 0, 0, 1);
 background: rgba(255, 255, 255, 1);
 }
@@ -535,6 +690,33 @@ margin-left: 862px;
 background: rgba(255, 255, 255, 1);
 
 }
+form{
+  width: 1067px;
+height: 848px;
+opacity: 0.95;
+border:0.1px solid black;
+margin-left: 400px;
+margin-top: 250px;
+font-family: Futura Lt BT;
+font-size: 26px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.8960000276565552px;
+text-align: left;
+color: #272727;
+}
+
+form input{
+  border:hidden;
+ 
+}
+#det span{
+  border: 1px solid black;
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+
 
 
 
@@ -561,7 +743,7 @@ nav {
   padding: 0.5rem;
   gap: 0.5rem;
   border-bottom: solid 1px #aaa;
-  background-color: #eee;
+  /* background-color: #eee; */
 }
 
 nav a {
@@ -569,15 +751,15 @@ nav a {
   min-width: 9rem;
   padding: 0.5rem;
   border-radius: 0.2rem;
-  border: solid 1px #aaa;
+  /* border: solid 1px #aaa; */
   text-align: center;
   text-decoration: none;
-  color: #555;
+  /* color: #555; */
 }
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: #d4d4d4;
+  /* background-color: #d4d4d4; */
 }
 
 main {
@@ -588,3 +770,33 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+#det{
+  padding-left: 1020px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+    font-family: Futura Lt BT;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.8960000276565552px;
+  text-align: left;
+  color: #272727;
+  
+  }
+  
+  
+  input{
+    border:hidden;
+    
+  }
+  
+  
+  
+  span{
+    border: 1px solid black;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+  }
+  
